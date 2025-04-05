@@ -1,0 +1,15 @@
+{
+    "name": "andrevictor/php-poo-abstraction",
+    "autoload": {
+        "psr-4": {
+            "Andrevictor\\PhpPooAbstraction\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Victor Soares Castro",
+            "email": "castro.victor@aluno.ifsp.edu.br"
+        }
+    ],
+    "require": {}
+}
