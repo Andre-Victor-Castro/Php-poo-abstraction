@@ -3,7 +3,7 @@
 
 **Key Aspects**:
 
-Abstract classes (partial implementations) and interfaces (pure contracts) define shared behaviors Concrete details are deferred to child classes
+- Abstract classes (partial implementations) and interfaces (pure contracts) define shared behaviors Concrete details are deferred to child classes
 
 **Advanced Concepts**:
 
